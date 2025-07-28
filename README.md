@@ -12,16 +12,16 @@ The dataset was cleaned, transformed, and visualized using Python libraries such
 - Pandas
 - Matplotlib
 - Jupyter Notebook (or any IDE)
-- Dataset: `netflix_titles.csv` from Kaggle
+- Dataset: 'netflix_titles.csv' from Kaggle
 
 ---
 
 ##  Data Cleaning & Transformation
 - Checked column names, shape, and data types.
-- Converted `date_added` column to datetime format.
-- Split the `duration` column into two: `duration_value` (numeric) and `duration_unit` (minutes/seasons).
-- Removed duplicates and unnecessary columns (`description`).
-- Handled missing values and created a new `year` column from the `date_added`.
+- Converted 'date_added' column to datetime format.
+- Split the 'duration' column into two: 'duration_value' (numeric) and 'duration_unit' (minutes/seasons).
+- Removed duplicates and unnecessary columns ('description').
+- Handled missing values and created a new 'year' column from the 'date_added'.
 
 ---
 
@@ -40,7 +40,7 @@ A horizontal bar chart was plotted to show:
 
 ## Key Insights
 - The number of titles added increased rapidly after 2016, peaking around 2019–2020.
-- Most content entries have complete `duration` data and consistent formatting after cleaning.
+- Most content entries have complete 'duration' data and consistent formatting after cleaning.
 - Splitting duration helps distinguish between movies (minutes) and TV shows (seasons).
 
 ---
