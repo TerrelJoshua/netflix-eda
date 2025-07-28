@@ -1,6 +1,6 @@
-# 📺 Netflix Titles Data Analysis
+# Netflix Titles Data Analysis
 
-## 📌 Overview
+##  Overview
 This project performs exploratory data analysis (EDA) on the Netflix titles dataset to uncover insights about content trends, duration patterns, and the evolution of content over time.
 
 The dataset was cleaned, transformed, and visualized using Python libraries such as Pandas and Matplotlib. This project is suitable for aspiring data analysts to demonstrate EDA, data cleaning, and visualization skills.
