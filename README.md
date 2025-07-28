@@ -11,7 +11,7 @@ The dataset was cleaned, transformed, and visualized using Python libraries such
 - Python 3.8
 - Pandas
 - Matplotlib
-- Jupyter Notebook (or any IDE)
+- VS Code
 - Dataset: 'netflix_titles.csv' from Kaggle
 
 ---
